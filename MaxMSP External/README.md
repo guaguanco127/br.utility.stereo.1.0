@@ -67,11 +67,11 @@ If the installation worked then the object will now exist in your patch.
 
 This external works almost like the abstraction version. However, you are unable to click inside of an external. 
 
-The first two inlets are for the left and the right stereo signals. You can give the message of "Mode $1" with a [number] connected to the message to adjust the modes using Max data. 
+The first two inlets are for the left and the right stereo signals. You can give the message of "mode $1" with a [number] connected to the message to adjust the modes using Max data. 
 
-A messages with "Width $1" with a float connected to the message between 0. and 100. will adjust the width. 
+A messages with "width $1" with a float connected to the message between 0. and 100. will adjust the width. 
 
-A messages with "Pan $1" with a float connected to the message between -100. and 100. will adjust the panning. 
+A messages with "pan $1" with a float connected to the message between -100. and 100. will adjust the panning. 
 
     
 
