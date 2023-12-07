@@ -1,9 +1,5 @@
-# Max/MSP Patches, Abstractions, Externals, RNBO, VSTs, and Ableton Max for Live 
-
-## br.utility.stereo.1.0
-
-
-
+# Ableton Max for Live device: br.utility.stereo.1.0  
+   
 By Brian Riordan  
 [guaguanco127@gmail.com](mailto:guaguanco127@gmail.com)  
 [brianriordanmusic@gmail.com](mailto:brianriordanmusic@gmail.com)  
@@ -12,13 +8,11 @@ Additional programs can be found here: [https://github.com/guaguanco127](https:/
 
 These files were created with Max/MSP version 8.5.6. and RNBO 1.2.3
 
-## Links
+## Table of Contents 
 
-[About](#About) 
-[Ableton Max for Live Device](https://github.com/guaguanco127/br.utility.stereo.1.0/tree/main/Ableton%20Max%20For%20Live) To use inside of Ableton Suite   
-[Max/MSP Abstraction](https://github.com/guaguanco127/br.utility.stereo.1.0/tree/main/MaxMSP%20Abstraction) To use as an abstraction within Max/MSP   
-[Max/MSP External](https://github.com/guaguanco127/br.utility.stereo.1.0/tree/main/MaxMSP%20External) To use as an external object within Max/MSP     
-[Max/MSP RNBO for External or VST](https://github.com/guaguanco127/br.utility.stereo.1.0/tree/main/RNBO%20Patchers%20for%20External%20or%20VST) To build an audio plugin in VST or AU for both Mac and Windows.   
+[About](#About)  
+[What is a Max for Live Device?](#M4L)  
+[How To Install](#Install)  
 
 ## <a name="About"></a>About
 
@@ -37,3 +31,33 @@ Pans the stereo signal left (-100.0), midle (0.0), or right (100.0)
 
 **Width:**  
 Adjusts the width of of the stereo signal. 100. is normal stereo. 0. is a mono signal.
+
+
+## <a name="M4L"></a>What Is a Max For Live Device?
+
+Max For Live brings the power and flexibility of Max to Ableton Live. Max For Live gives you access to hundreds of exclusive custom plug-ins (Live Devices) as well as the tools to build your own. These can be MIDI and audio effects, audio and video synthesizers, 3D Jitter visuals, as well as tools that interact with the Live application itself, via the Live API.
+
+## <a name="Install"></a>How To Install
+
+1. Make sure you have the Ableton Live Suite installed in your computer. This was tested on version 11. Make sure Ableton is turned off while installing. 
+
+2. For Macintosh:  
+Go to your user folder  
+Then Music > Ableton > User Library > Presets > Audio Effects  
+Copy and paste either br.utility.stereo.1.0.amxd or br.utility.gain.basic.1.0.amxd into that folder
+
+3. For Windows: \Users\[username]\Documents\Ableton\User Library\Presets\Audio Effects\Max Audio Effect  
+  
+4. Open Ableton Live. On the left-hand side, loove for Max for Live > Max Audio Effect and then the name of this device.
+
+5. Either double click on the device, or drag/drop it onto the track where you wish to use it.  
+    
+
+
+
+ 
+
+
+
+
+
