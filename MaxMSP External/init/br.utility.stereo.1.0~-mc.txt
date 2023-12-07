@@ -1,0 +1,1 @@
+max objectfile mc.br.utility.stereo.1.0~ mc.wrapper~ br.utility.stereo.1.0~;
