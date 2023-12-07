@@ -76,7 +76,7 @@
 			}
 , 			{
 				"box" : 				{
-					"attr" : "Pan",
+					"attr" : "pan",
 					"id" : "obj-7",
 					"maxclass" : "attrui",
 					"numinlets" : 1,
@@ -89,7 +89,7 @@
 			}
 , 			{
 				"box" : 				{
-					"attr" : "Width",
+					"attr" : "width",
 					"id" : "obj-4",
 					"maxclass" : "attrui",
 					"numinlets" : 1,
@@ -102,7 +102,7 @@
 			}
 , 			{
 				"box" : 				{
-					"attr" : "Mode",
+					"attr" : "mode",
 					"id" : "obj-1",
 					"maxclass" : "attrui",
 					"numinlets" : 1,
@@ -4410,8 +4410,8 @@
 ,
 					"patching_rect" : [ 111.0, 246.0, 246.0, 22.0 ],
 					"rnboattrcache" : 					{
-						"Width" : 						{
-							"label" : "Width",
+						"pan" : 						{
+							"label" : "pan",
 							"isEnum" : 0,
 							"parsestring" : ""
 						}
@@ -4422,8 +4422,8 @@
 							"parsestring" : "\"Stereo\" \"Swap\" \"Left\" \"Right\" \"Mid\" \"Side\""
 						}
 ,
-						"pan" : 						{
-							"label" : "pan",
+						"width" : 						{
+							"label" : "width",
 							"isEnum" : 0,
 							"parsestring" : ""
 						}
@@ -4457,7 +4457,7 @@
 						"subtype" : "Undefined",
 						"embed" : 1,
 						"snapshot" : 						{
-							"Width" : 							{
+							"width" : 							{
 								"value" : 100.0
 							}
 ,
@@ -4484,7 +4484,7 @@
 									"subtype" : "",
 									"embed" : 0,
 									"snapshot" : 									{
-										"Width" : 										{
+										"width" : 										{
 											"value" : 100.0
 										}
 ,
