@@ -45,11 +45,9 @@ By saving your logic in an abstraction, you can create modules that can be used 
 
 1. Make sure you have Max/MSP 8 installed in your computer. And, make sure you are using a Max patch that is inside of a folder.  
 
-2. For the normal version of this abstraction, copy and paste br.utility.stereo.abs.1.0.maxpat inside of the same folder as the Max patch you are using.     
-  
-3. For the basic version of this abstraction, copy and paste br.utility.gain.basic.abs.1.0.maxpat inside of the same folder as the Max patch you are using. 
+2. For the normal version of this abstraction, copy and paste br.utility.stereo.abs.1.0.maxpat inside of the same folder as the Max patch you are using.      
 
-4. In the Max patch you are using, create an object called br.utility.stereo.abs.1.0 (or br.utility.gain.basic.abs.1.0 for the basic version.
+3. In the Max patch you are using, create an object called br.utility.stereo.abs.1.0 
 
 ## <a name="Use"></a>How To Use
 

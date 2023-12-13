@@ -44,11 +44,11 @@ Max For Live brings the power and flexibility of Max to Ableton Live. Max For Li
 2. For Macintosh:  
 Go to your user folder  
 Then Music > Ableton > User Library > Presets > Audio Effects  
-Copy and paste either br.utility.stereo.1.0.amxd or br.utility.gain.basic.1.0.amxd into that folder
+Copy and paste br.utility.stereo.1.0.amxd into that folder
 
 3. For Windows: \Users\[username]\Documents\Ableton\User Library\Presets\Audio Effects\Max Audio Effect  
   
-4. Open Ableton Live. On the left-hand side, loove for Max for Live > Max Audio Effect and then the name of this device.
+4. Open Ableton Live. On the left-hand side, look for Max for Live > Max Audio Effect and then the name of this device.
 
 5. Either double click on the device, or drag/drop it onto the track where you wish to use it.  
     
