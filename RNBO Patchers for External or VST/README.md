@@ -29,7 +29,7 @@ br.utility.stereo.rnbo.ext.1.0 is a patch set up to export as a Max/MSP external
 
 br.utility.stereo.rnbo.vst.1.0.maxpat is a patch set up to export as a VST or AU audio plugin.  
 
-Either program allows the user to adjust a the stereo mix of a signal. signal, such as swapping, left only, right only, mid, or side. Additionally, the user can adjust the width or the pan of the resulting signal.Currently works in any sample rate or bit depth.
+Either program allows the user to adjust the stereo mix of a signal, such as swapping, left only, right only, mid, or side. Additionally, the user can adjust the width or the pan of the resulting signal. Currently works in any sample rate or bit depth.
   
 **Modes:**   
 **Stereo:** Normal stereo signal passes through  
